@@ -1,0 +1,6 @@
+__pycache__
+.cache
+env.py
+spotify_millsongdata.csv
+df.pkl
+similarity.pkl
